@@ -6,7 +6,7 @@ The HTML reports is archieved and kept in the artifact section for the team to d
 The latest report is mailed to the team members using GMAIL SMTP.
 
 ## About Me ##
-Hi, My name HEENA SHAIKH. I have 3+ year of Experience Automation Testing skills with Manual Testing, API, SQL, Java, Selenium, TestNG and other frameworks, Maven, Jenkins, BDD Cucumber, JIRA and Git/GitHub.
+Hi, My name HEENA SHAIKH. I have 4+ year of Experience Automation Testing skills with Manual Testing, API, SQL, Java, Selenium, TestNG and other frameworks, Maven, Jenkins, BDD Cucumber, JIRA and Git/GitHub.
 linkedin 
 https://www.linkedin.com/in/heena-shaikh-software-engineer/ 
 
